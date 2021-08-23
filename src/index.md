@@ -16,7 +16,7 @@ Office hour: Monday 3:30–4:30pm (Gates 411A)
 ### Teaching Assistants
 
 **James "Clay" Goodling**  
-Office hour: TK
+Office hour: Mondays 2:30-3:30pm (Rhodes 406)
 
 [**David J. Lee**](https://djslzx.github.io) (he/him)  
 Office hours: Wednesdays 10:30–11:30am (Rhodes 418)
