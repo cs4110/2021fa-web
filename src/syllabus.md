@@ -11,7 +11,7 @@ CS 4110/5110, "Programming Languages and Logics," is a thrilling amusement-park 
 - All course communication will happen on [Ed][].
   - Create an account with your <code>netid&commat;cornell.edu</code> email address. You should already have access.
   - You're responsible for knowing everything that we post as notes there. Ignore announcements at your own risk.
-- Homework and grading happens on [CMS][].
+- Homework and grading happens on [Gradescope][].
   - Submit your homework anonymously (don't put your name or NetID in the PDF).
 - There will be 9 one-week homework assignments.
   - You can work in pairs on homework if you like, in which case you'll write one submission together.
@@ -24,8 +24,8 @@ CS 4110/5110, "Programming Languages and Logics," is a thrilling amusement-park 
   - Grading for both homework assignments and exams will have a high standard for precision. Because this class is about formalism, little details matter more than the general gist of the solution.
 - CS 4110 (undergraduate) and CS 5110 (MEng) are mostly the same, except for some extra assignments in the latter.
 
-[cms]: https://cmsx.cs.cornell.edu/
 [ed]: https://edstem.org/us/courses/9227/discussion/
+[gradescope]: https://www.gradescope.com/courses/297449
 
 # Organization
 
@@ -44,11 +44,13 @@ A good post asks a specific question. Here are some examples of bad posts:
 
 If you need help with a homework problem, for example, be sure to include what you've tried already, exactly where you're stuck, and what you're currently thinking about how to proceed. If you just ask for help without any evidence of effort, we'll punt the question back to you for more details.
 
-## Assignments: CMS
+## Assignments: Gradescope
 
-You will download homework assignments, upload solutions, and receive grades through [CMS][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
+You will download homework assignments, upload solutions, and receive grades through [Gradescope][]. Please log in there to see whether you're in the system. If you're not, please send your NetID to the course staff and we'll get you set up.
 
-We're using an anonymous grading system, i.e., we won't know who we're grading. So please do not put your name or NetID anywhere in the PDF you upload to CMS. (CMS knows who you are!)
+We try to grade anonymously, i.e., the course staff won't know who we're grading.
+So please do not put your name or NetID anywhere in the PDF you upload to Gradescope.
+(Gradescope knows who you are!)
 
 # Content
 
@@ -75,19 +77,19 @@ Problem sets are due on Mondays at 11:59 PM. See the [course schedule][schedule]
 
 We will **drop one score** to calculate your final grade: that is, your lowest-scoring problem set won't count, even if that score is zero.
 
-You'll turn in assignments via [CMS][].
+You'll turn in assignments via [Gradescope][].
 We strongly encourage you to use TeX, but you can also write up answers by hand. If you do, scan your work and upload it as a PDF. It's your responsibility to make sure scans are 100% legible---we won't regrade work that was too hard to read.
 
 ### Extensions
 
-Assignments are due at the time specified in CMS, and we ask that you
+Assignments are due at the time specified in Gradescope, and we ask that you
 always try to submit before that deadline, even if your solution is
 incomplete. That at least shows us that you are making progress.
 
 But life happens: you miss the deadline because of other courses,
 illness, events in your personal life, and so forth. Rather than the
 burden of you having to ask for an extension in those circumstances,
-we have configured CMS to accept late submissions up to 48
+we have configured Gradescope to accept late submissions up to 48
 hours after the deadline. There is no penalty for these late
 submissions. They are an automatic extension you may choose to grant
 yourself. We trust you to do so wisely—often, making use of them will
@@ -103,9 +105,9 @@ demands of life, including:
 * large workloads in other courses
 * extra-curriculars
 
-Be aware that after CMS decides that the late submission deadline has
+Be aware that after Gradescope decides that the late submission deadline has
 passed—even 1 second past it—no further submissions will be accepted.
-CMS does not provide a grace period on late submissions.
+Gradescope does not provide a grace period on late submissions.
 
 Beyond those automatic extensions, we will grant exceptional
 extensions in truly exceptional circumstances. Those require
@@ -129,7 +131,7 @@ class and contact the staff immediately to reschedule.
 
 To get full credit on the 5% of your grade allocated to participation, you just have to do three things:
 
-* Do the introduction survey (on CMS) in the first week of class.
+* Do the introduction survey (on Gradescope) in the first week of class.
 * Fill out the mid-semester feedback survey.
 * Enter the semester-end course evaluation.
 
