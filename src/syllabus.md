@@ -9,8 +9,8 @@ CS 4110/5110, "Programming Languages and Logics," is a thrilling amusement-park 
 # TL;DR
 
 - All course communication will happen on [Ed][].
-  - Create an account with your <code>netid&commat;cornell.edu</code> email address. You should already have access.
-  - You're responsible for knowing everything that we post as notes there. Ignore announcements at your own risk.
+  - Log in with your <code>netid&commat;cornell.edu</code> email address. You should already have access.
+  - You're responsible for knowing everything that we post as announcements there. Ignore announcements at your own risk.
 - Homework and grading happens on [Gradescope][].
   - Submit your homework anonymously (don't put your name or NetID in the PDF).
 - There will be 9 one-week homework assignments.
@@ -31,11 +31,11 @@ CS 4110/5110, "Programming Languages and Logics," is a thrilling amusement-park 
 
 ## Announcements and Q&A: Ed
 
-We will be using [Ed][] for all announcements and communication about the course. Sign up for an account there with your <code>netid&commat;cornell.edu</code> email address. The course staff will post important updates there that you really want to know about! Check often, and be sure to enable notifications for the #announcements channel.
+We will be using [Ed][] for all announcements and communication about the course. Log in there with your <code>netid&commat;cornell.edu</code> email address. The course staff will post important updates there that you really want to know about! Check often, and don't miss the announcement emails.
 
 You can also ask questions---about lectures, homework, or anything else---on Ed.
 
-If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, contact the course staff privately. You can do that by creating a note that is visible only to "Instructors and TAs."
+If you can answer a question yourself, please do! But be careful not to post answers---if you're not sure whether something is OK to post, contact the course staff privately. You can do that by marking your question as "Private" when you post it.
 
 A good post asks a specific question. Here are some examples of bad posts:
 
