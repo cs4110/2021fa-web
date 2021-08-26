@@ -17,6 +17,7 @@ CS 4110/5110, "Programming Languages and Logics," is a thrilling amusement-park 
   - You can work in pairs on homework if you like, in which case you'll write one submission together.
   - The deadline is always Monday night at 11:59pm.
   - You have an automatic 48-hour extension.
+  - Homework scores are "capped": anything above 85% is the best possible grade.
   - Your lowest homework score will be dropped.
 - There will be two in-class prelims and a final exam.
 - The homework and exams may feel different from other classes.
@@ -75,7 +76,14 @@ Problem sets are due on Mondays at 11:59 PM. See the [course schedule][schedule]
 
 [schedule]: {{ relative "/schedule.html" }}
 
-We will **drop one score** to calculate your final grade: that is, your lowest-scoring problem set won't count, even if that score is zero.
+The purpose of homework assignments is to challenge you to build on what you learn in class.
+Our goal while grading will be to offer useful feedback---not to do fine-grained score accounting.
+In terms of your final course grade, homework scores are **capped at 85%**.
+All scores above 85% will count as "full credit" and an A average; scores below 85% will be scaled accordingly (e.g., 80% on an assignment maps to a final-grade value of 88.9%).
+This policy embodies our trust in students' ability to responsibly prioritize learning over maximizing grades.
+
+Also, we will **drop one score** to calculate your final grade: that is, your lowest-scoring problem set won't count, even if that score is zero.
+Use this policy to cope with an extenuating circumstances, or that especially difficult week in your semester, by skipping one assignment.
 
 You'll turn in assignments via [Gradescope][].
 Be sure to [attach your group to your submission][gs-group] in Gradescope if you're working in a pair.
