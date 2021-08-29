@@ -79,7 +79,7 @@ Problem sets are due on Mondays at 11:59 PM. See the [course schedule][schedule]
 The purpose of homework assignments is to challenge you to build on what you learn in class.
 Our goal while grading will be to offer useful feedback---not to do fine-grained score accounting.
 In terms of your final course grade, homework scores are **capped at 85%**.
-All scores above 85% will count as "full credit" and an A average; scores below 85% will be scaled accordingly (e.g., 80% on an assignment maps to a final-grade value of 88.9%).
+All scores above 85% will count as "full credit" and an A average; scores below 85% will be scaled accordingly (e.g., 80% on an assignment maps to a final-grade value of 94.1%).
 This policy embodies our trust in students' ability to responsibly prioritize learning over maximizing grades.
 
 Also, we will **drop one score** to calculate your final grade: that is, your lowest-scoring problem set won't count, even if that score is zero.
@@ -131,7 +131,7 @@ an exceptional extension.
 
 ## Exams
 
-There will be two take-home preliminary exams and a final exam.
+There will be two in-class preliminary exams and a final exam.
 See the [course schedule][schedule].
 
 Makeup exams must be scheduled within the first three weeks of class.
