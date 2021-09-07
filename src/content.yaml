@@ -19,8 +19,14 @@
             notes: lecture03.pdf
 -
     topic: Inductive Proof and Large-Step Semantics
+    links:
+            slides: slides04.pdf
+            notes: lecture04.pdf
 -
     topic: The IMP Language
+    links:
+            slides: slides05.pdf
+            notes: lecture05.pdf
 -
     topic: IMP Properties
 -
