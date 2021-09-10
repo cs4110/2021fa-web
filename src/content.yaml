@@ -34,8 +34,14 @@
             notes: lecture05.pdf
 -
     topic: IMP Properties
+    links:
+            slides: slides06.pdf
+            notes: lecture06.pdf
 -
     topic: More IMP Proofs
+    links:
+            same slides: slides06.pdf
+            same notes: lecture06.pdf
 -
     topic: Denotational Semantics
 -
