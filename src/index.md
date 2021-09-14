@@ -18,8 +18,8 @@ Office hour: Monday 3:30–4:30pm (Gates 411A)
 **James "Clay" Goodling**  
 Office hour: Mondays 2:30-3:30pm (Rhodes 406)
 
-[**David J. Lee**](https://djslzx.github.io) (he/him)  
-Office hour: Tuesdays 10–11am (Rhodes 574)
+[**David J. Lee**](https://cs.cornell.edu/~djsl) (he/him)  
+Office hours: Tuesdays 10–11am (9/14: Rhodes 574; from 9/21: Rhodes 402)
 
 **Sophia Roshal**  
 Office hour: Fridays 11am-12pm (Rhodes 405)
