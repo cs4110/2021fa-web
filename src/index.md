@@ -30,7 +30,7 @@ Office hour: Thursdays 10am-11am (Rhodes 405)
 **Leon Witzman**  
 Office hour: Tuesdays 11am-12pm (Rhodes 405)
 
-[**Noam Zilberstein**](https://noamz.net)  
+[**Noam Zilberstein**](https://www.cs.cornell.edu/~noamz/)  
 Office hour: Wednesdays 2:30-3:30pm (Rhodes 402)
 
 ### Contact
