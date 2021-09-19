@@ -38,16 +38,20 @@
             slides: slides06.pdf
             notes: lecture06.pdf
 -
-    topic: More IMP Proofs
-    links:
-            same slides: slides06.pdf
-            same notes: lecture06.pdf
--
     topic: Denotational Semantics
+    links:
+            same slides: slides07.pdf
+            same notes: lecture07.pdf
 -
     topic: Denotational Semantics Examples
+    links:
+            same slides: slides08.pdf
+            same notes: lecture08.pdf
 -
     topic: Axiomatic Semantics
+    links:
+            same slides: slides09.pdf
+            same notes: lecture09.pdf
 -
     topic: Hoare Logic
 -
