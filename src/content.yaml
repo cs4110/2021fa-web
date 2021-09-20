@@ -45,13 +45,13 @@
 -
     topic: Denotational Semantics Examples
     links:
-            same slides: slides08.pdf
-            same notes: lecture08.pdf
+            slides: slides08.pdf
+            notes: lecture08.pdf
 -
     topic: Axiomatic Semantics
     links:
-            same slides: slides09.pdf
-            same notes: lecture09.pdf
+            slides: slides09.pdf
+            notes: lecture09.pdf
 -
     topic: Hoare Logic
 -
