@@ -64,8 +64,14 @@
             notes: lecture10.pdf
 -
     topic: Hoare Logic Examples
+    links:
+            slides: slides11.pdf
+            notes: lecture11.pdf
 -
     topic: Weakest Preconditions
+    links:
+            slides: slides12.pdf
+            notes: lecture12.pdf
 -
     topic: λ-Calculus
 -
