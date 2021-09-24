@@ -53,6 +53,11 @@
             slides: slides09.pdf
             notes: lecture09.pdf
 -
+    topic: More Axiomatic Semantics
+    links:
+            same slides: slides09.pdf
+            same notes: lecture09.pdf
+-
     topic: Hoare Logic
     links:
             slides: slides10.pdf
