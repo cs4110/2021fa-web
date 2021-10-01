@@ -74,10 +74,18 @@
             notes: lecture12.pdf
 -
     topic: λ-Calculus
+    links:
+            notes: lecture13.pdf
 -
     topic: More λ-Calculus and Substitution
+    links:
+            slides: slides14.pdf
+            notes: lecture14.pdf
 -
     topic: de Bruijn and Combinators
+    links:
+            slides: slides15.pdf
+            notes: lecture15.pdf
 -
     topic: Encodings
 -
