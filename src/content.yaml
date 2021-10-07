@@ -82,18 +82,30 @@
             slides: slides14.pdf
             notes: lecture14.pdf
 -
-    topic: de Bruijn and Combinators
+    topic: Encodings
     links:
             slides: slides15.pdf
             notes: lecture15.pdf
 -
-    topic: Encodings
+    topic: Fixed-Point Combinators
+    links:
+            slides: slides16.pdf
+            notes: lecture16.pdf
 -
-    topic: Encodings and Fixed-Point Combinators
+    topic: de Bruijn and Combinators
+    links:
+            slides: slides17.pdf
+            notes: lecture17.pdf
 -
     topic: Definitional Translation
+    links:
+            slides: slides18.pdf
+            notes: lecture18.pdf
 -
     topic: Continuations
+    links:
+            slides: slides19.pdf
+            notes: lecture19.pdf
 -
     topic: Types
 -
