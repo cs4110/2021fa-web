@@ -108,10 +108,19 @@
             notes: lecture19.pdf
 -
     topic: Types
+    links:
+            slides: slides20.pdf
+            notes: lecture20.pdf
 -
     topic: More Types
+    links:
+            same slides: slides20.pdf
+            same notes: lecture20.pdf
 -
     topic: Proving Type Soundness
+    links:
+            slides: slides21.pdf
+            notes: lecture21.pdf
 -
     topic: Normalization
 -
