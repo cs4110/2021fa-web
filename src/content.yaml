@@ -157,7 +157,17 @@
             slides: slides29.pdf
             notes: lecture29.pdf
 -
+    topic: Linear Types
+    links:
+            notes: lecture30.pdf
+-
+    topic: Higher-Kinded Types
+    links:
+            notes: lecture31.pdf
+-
     topic: Dependent Types
+    links:
+            notes: lecture32.pdf
 -
     topic: Probabilistic Semantics
 -
