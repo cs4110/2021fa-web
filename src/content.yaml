@@ -169,13 +169,7 @@
     links:
             notes: lecture32.pdf
 -
-    topic: Probabilistic Semantics
--
-    topic: Concurrency
--
-    topic: DSLs
--
-    topic: Certified Systems
+    topic: Probabilistic Programming
 -
     topic: Synthesis
 -
