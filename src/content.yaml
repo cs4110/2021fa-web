@@ -123,30 +123,50 @@
             notes: lecture22.pdf
 -
     topic: Advanced Types
+    links:
+            slides: slides23.pdf
+            notes: lecture23.pdf
 -
     topic: Polymorphism
+    links:
+            slides: slides24.pdf
+            notes: lecture24.pdf
 -
     topic: Type Inference
+    links:
+            slides: slides25.pdf
+            notes: lecture25.pdf
 -
     topic: Recursive Types
+    links:
+            slides: slides26.pdf
+            notes: lecture26.pdf
 -
     topic: Records and Subtyping
+    links:
+            slides: slides27.pdf
+            notes: lecture27.pdf
 -
     topic: Existential Types
+    links:
+            slides: slides28.pdf
+            notes: lecture28.pdf
 -
     topic: Propositions as Types
-- 
+    links:
+            slides: slides29.pdf
+            notes: lecture29.pdf
+-
     topic: Dependent Types
-- 
+-
     topic: Probabilistic Semantics
-- 
+-
     topic: Concurrency
 -
     topic: DSLs
 -
     topic: Certified Systems
-- 
+-
     topic: Synthesis
-- 
+-
     topic: Victory Lap
-- 
