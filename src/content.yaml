@@ -117,6 +117,11 @@
             same slides: slides20.pdf
             notes: lecture21.pdf
 -
+    topic: More Soundness
+    links:
+            same slides: slides20.pdf
+            same notes: lecture21.pdf
+-
     topic: Normalization
     links:
             slides: slides22.pdf
