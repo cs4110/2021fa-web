@@ -137,6 +137,11 @@
             slides: slides24.pdf
             notes: lecture24.pdf
 -
+    topic: More Polymorphism
+    links:
+            same slides: slides24.pdf
+            same notes: lecture24.pdf
+-
     topic: Type Inference
     links:
             slides: slides25.pdf
