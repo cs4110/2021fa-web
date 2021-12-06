@@ -179,8 +179,7 @@
     links:
             notes: lecture32.pdf
 -
-    topic: Probabilistic Programming
--
     topic: Synthesis
--
-    topic: Victory Lap
+    links:
+            notes: 'https://www.cs.cornell.edu/~asampson/blog/minisynth.html'
+
