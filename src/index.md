@@ -10,28 +10,16 @@ in {{ course.room }}
 
 ### Instructor
 
-[**Adrian Sampson**][adrian] (he/him)    
-Office hour: Monday 3:30–4:30pm (Gates 411A)
+[**Adrian Sampson**][adrian] (he/him)
 
 ### Teaching Assistants
 
-**James "Clay" Goodling**  
-Office hour: Mondays 2:30-3:30pm (Rhodes 406)
-
-[**David J. Lee**](https://cs.cornell.edu/~djsl) (he/him)  
-Office hours: Tuesdays 10–11am (Rhodes 405)
-
-**Sophia Roshal**  
-Office hour: Fridays 11am-12pm (Rhodes 405)
-
-**Jackson Subcleff**  
-Office hour: Thursdays 10am-11am (Rhodes 405)
-
-**Leon Witzman**  
-Office hour: Tuesdays 11am-12pm (Rhodes 405)
-
-[**Noam Zilberstein**](https://www.cs.cornell.edu/~noamz/)  
-Office hour: Wednesdays 2:30-3:30pm (Rhodes 402)
+* **James "Clay" Goodling**
+* [**David J. Lee**](https://cs.cornell.edu/~djsl) (he/him)
+* **Sophia Roshal**
+* **Jackson Subcleff**
+* **Leon Witzman**
+* [**Noam Zilberstein**](https://www.cs.cornell.edu/~noamz/)
 
 ### Contact
 
@@ -40,7 +28,9 @@ communication to make sure that the whole course staff can help.
 
 ### Office Hours
 
+<!--
 This [Google calendar][gcal] contains all the office hours listed above.
+-->
 
 Can't make the normal office hours? Post a private note to
 [Ed][] to request a special appointment. We'll do our best
